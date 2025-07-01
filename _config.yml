@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Liu Hengjie"
 title_separator          : "-"
 name                     : &name "Liu Hengjie"
 description              : &description "A Ph.D. student in Kyushu University"
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liu Hengjie"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Fukuoka, Japan"
   employer         : "Kyushu University"
-  uri              : # URL
+  url              : # URL
   email            : "liu.hengjie.142@s.kyushu-u.ac.jp" 
 
   # Academic websites
